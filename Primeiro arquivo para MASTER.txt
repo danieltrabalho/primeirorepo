@@ -1,0 +1,1 @@
+Primeira linha para o segundo commit na MASTER
