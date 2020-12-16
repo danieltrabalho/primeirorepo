@@ -1,1 +1,3 @@
 Primeira linha para o segundo commit na MASTER
+
+Segunda linha para o terceiro commit na MASTER
